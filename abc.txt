@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-hi  world
-hi  you
-=======
 hi  worldnihao shijie
->>>>>>> 4523911657cd8c933d94adfeea7b57f44c991604
